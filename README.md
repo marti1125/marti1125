@@ -11,9 +11,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=marti1125&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marti1125&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=marti1125&icon=2&color=0)](https://visitcount.itsvg.in)
-
 <!--
 **marti1125/marti1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
