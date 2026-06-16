@@ -1,6 +1,6 @@
 # 🚀 About Me
 
-* 🐍 **Python Developer** focused on **Backend Engineering** and **Data Engineering**
+* 🐍 **Python Developer** focused on **Backend Engineering**
 * 🧠 **Neurodivergent** [#AuDHD](https://embrace-autism.com/an-introduction-to-audhd/)
 
 # 💻 Tech Stack:
